@@ -5,7 +5,7 @@ let answer = prompt(" What is the “official” name of JavaScript?");
 if (answer == "ECMAScript") {
   alert("Right!");
 } else {
-  alert("Wrong!");
+  alert("Wrong!"); if
 }
 
 //Using if..else, write the code which gets a number via prompt and then shows in alert:
@@ -23,7 +23,7 @@ if (value == 0) {
 } else {
   alert("-1");
 }
-
+=> 
 //Rewrite this if using the conditional operator '?':
 
 //let result;
